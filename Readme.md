@@ -28,4 +28,4 @@ palindrome("123"); // false (321)
 palindrome("_323"); // true
 palindrome("Mr. Owl ate my metal worm"); // true
 palindrome("Palindrome"); // false (emordnilap)
-```# palindrome-checker
+```
